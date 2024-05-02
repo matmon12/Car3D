@@ -1,0 +1,11 @@
+Model Information:
+* title:	Dirty Old Tires
+* source:	https://sketchfab.com/3d-models/dirty-old-tires-3ac31ac8a2cf4b7187b4d1b95d2aeea0
+* author:	chrisg4919 (https://sketchfab.com/chrisg4919)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Dirty Old Tires" (https://sketchfab.com/3d-models/dirty-old-tires-3ac31ac8a2cf4b7187b4d1b95d2aeea0) by chrisg4919 (https://sketchfab.com/chrisg4919) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
