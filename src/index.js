@@ -480,7 +480,7 @@ function init() {
   stats.domElement.style.position = 'absolute';
   stats.domElement.style.left = '0px';
   stats.domElement.style.top = '0px';
-  document.body.appendChild(stats.domElement);
+  // document.body.appendChild(stats.domElement);
 
   const material = new THREE.MeshStandardMaterial({ color: 0xf80707, emissive: 0xf80707, emissiveIntensity: 0.5, metalness: 1 });
   const loader = new THREE.GLTFLoader();
@@ -590,10 +590,10 @@ function init() {
 }
 
 function animate() {
-  stats.begin();
+  // stats.begin();
   TWEEN.update();
   renderer.render(scene, camera);
-  stats.end();
+  // stats.end();
   requestAnimationFrame(animate);
 }
 
